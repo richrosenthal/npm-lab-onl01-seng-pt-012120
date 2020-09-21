@@ -1,0 +1,14 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "color-clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello world'"
+  },
+  "author": "Richard Rosenthal",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.28.0"
+  }
+}
